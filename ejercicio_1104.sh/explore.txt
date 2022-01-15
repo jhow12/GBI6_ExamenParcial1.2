@@ -1,0 +1,4 @@
+Nombre de la columna: Abund.n
+Numero de valores distintos: 46
+Valor minimo: 1
+Valor max: 157
